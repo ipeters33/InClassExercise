@@ -13,6 +13,7 @@ extract($_REQUEST);
     <?php
     if (isset($usernmae)) {
         echo "Welcome $$username";
+    }
     ?>
 
   <form action ="" method = "get">
